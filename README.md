@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi there 👋, I'm Samantha
 
-<!--
-**sihhanchao/sihhanchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+🎓 MS in Computer Science @ New York University, Courant | (Class of 2027) <br>
+💼 Former Software Engineer Intern @ Z-COM, Inc. <br>
+🍎 Now based in NYC  <br>
+
+ I am a Computer Science graduate student with a passionate focus on Bridging the gap between **software Development (Backend)** and **efficient hardware acceleration (ML/AI)**. Currently seeking **Summer/Fall 2026 Internship** opportunities in Backend, ML Infrastructure, or Data Engineering.
+
+#### 🚀 Core Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+#### 🧠 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LLM%20Optimization-000000?style=flat-square&logo=openai&logoColor=white" alt="LLM Optimization" />
+  <img src="https://img.shields.io/badge/Pruning-blue?style=flat-square" alt="Pruning" />
+  <img src="https://img.shields.io/badge/Quantization-purple?style=flat-square" alt="Quantization" />
+  <img src="https://img.shields.io/badge/Hardware%20Accelerators-gray?style=flat-square&logo=nvidia&logoColor=white" alt="Hardware Accelerators" />
+</p>
+
+#### 🗄 Data Engineering & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
