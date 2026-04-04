@@ -8,7 +8,7 @@
 💼 Former Software Engineer Intern @ Z-COM, Inc. <br>
 🍎 Now based in NYC  <br>
 
- I am a Computer Science graduate student with a passionate focus on software Development and ML/AI. Currently seeking Summer/Fall 2026 Internship opportunities in Backend, ML Infrastructure, or Data Engineering.
+ I am a Computer Science graduate student with a passionate focus on software development and ML/AI. Currently seeking opportunities in Backend, ML Infrastructure, or Data Engineering.
 
 #### 🚀 Core Programming Languages
 <p align="left">
