@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 MS in Computer Science @ New York University, Courant | (Class of 2027) <br>
+🎓 MS in Computer Science @ New York University, Courant | Class of 2027 <br>
 💼 Former Software Engineer Intern @ Z-COM, Inc. <br>
 🍎 Now based in NYC  <br>
 
