@@ -5,6 +5,7 @@
 ### 🧑‍💻 About Me
 
 🎓 MS in Computer Science @ New York University, Courant | Class of 2027 <br>
+💼 Incoming Software Engineer Intern @ Micron Technology <br>
 💼 Former Software Engineer Intern @ Z-COM, Inc. <br>
 🍎 Now based in NYC  <br>
 
